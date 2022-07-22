@@ -9,7 +9,7 @@
   <br>
 <li>I currently work as a freelancer and I'm very much open to new job opportunities</li>
   <br>
-  <li>✉️ You can contact me at <a href="seyeezi18@gmail.com">my Gmail</a></li>
+  <li>✉️ You can contact me via <a href="mailto:seyeezi18@gmail.com">Gmail</a></li>
   <br>
 <li>I'm currently studying at Altschool Africa, the 14GxZuri program 2022 and The Federal University of Technology, Akure.</li>
   <br>
