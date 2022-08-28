@@ -13,7 +13,7 @@
   <br>
 <li>I'm currently studying at Altschool Africa,The Federal University of Technology, Akure.</li>
   <br>
- <li>I am a recent graduate of Cohort I, 14GxZuri training program 2022, of which my team came 3rd out of over 120 teams<a href="qrgen59.herokuapp.com">View our site here!</a></li>
+ <li>I'm a recent graduate of the I4GxZuri training program 2022, of which my team came 3rd overall out of 129 teams <a href="qrgen59.herokuapp.com"> View our site here!</a></li>
  <br>
 <li>🤝 I'm open to collaborating on HTML, CSS, Javascript, Figma and Python(Django) projects!</li>
 </ul>
