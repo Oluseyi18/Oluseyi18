@@ -1,19 +1,19 @@
 <h1><b>Hi there 👋, I’m Oluseyi Ajibade<b></h1>
 <h1>Fullstack Website Developer, Graphics Designer and Content Writer</h1>
 <ul>
-<li>👀 I’m interested in software development, Graphics design and Content writing</li>
+<li>👀 I’m into software development, Graphics design and Technical writing and Project Management</li>
   <br>
-<li>🌱 I’m currently learning Backend Development (Django)</li>
+<li>🌱 I'm currently working for a private consulting firm</li>
   <br>
 <li>💞️🌍 I'm based in Lekki, Lagos State, Nigeria.</li>
   <br>
-<li>I currently work as a freelancer and I'm very much open to new job opportunities</li>
+<li>I also work as a freelancer and I'm very much open to other job opportunities</li>
   <br>
   <li>✉️ You can contact me via <a href="mailto:seyeezi18@gmail.com">Gmail</a></li>
   <br>
-<li>I'm currently studying at Altschool Africa,The Federal University of Technology, Akure.</li>
+<li>What do I do in my free time? Code!</li>
   <br>
- <li>I'm a recent graduate of the I4GxZuri training program 2022, of which my team came 3rd overall out of 129 teams <a href="https://qrgen59.herokuapp.com">View our site here!</a></li>
+ <li>I recently worked as a fullstack developer/ project manager on a Qrcode generator platfrom that's powered by Django <a href="https://qrgen59.herokuapp.com">View live site here!</a></li>
  <br>
 <li>🤝 I'm open to collaborating on HTML, CSS, Javascript, Figma and Python(Django) projects!</li>
 </ul>
