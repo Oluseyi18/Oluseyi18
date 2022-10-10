@@ -9,13 +9,13 @@
   <br>
 <li>I also work as a freelancer and I'm very much open to other job opportunities</li>
   <br>
-  <li>✉️ You can contact me via <a href="mailto:seyeezi18@gmail.com">Gmail</a></li>
-  <br>
 <li>What do I do in my free time? Code!</li>
   <br>
  <li>I recently worked as a fullstack developer/ project manager on a Qrcode generator platfrom that's powered by Django <a href="https://qrgen59.herokuapp.com">View live site here!</a></li>
  <br>
 <li>🤝 I'm open to collaborating on HTML, CSS, Javascript, Figma and Python(Django) projects!</li>
+  <br>
+  <li>✉️ You can contact me via <a href="mailto:seyeezi18@gmail.com">Gmail</a></li>
 </ul>
 
 <div id="badges">
