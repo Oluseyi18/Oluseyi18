@@ -1,20 +1,16 @@
 <h1><b>Hi there 👋, I’m Oluseyi Ajibade<b></h1>
-<h1>Fullstack Website Developer, Graphics Designer and Content Writer</h1>
+<h1>Software Consultant | Fullstack Developer | IT Project Manager</h1>
 <ul>
-<li>👀 I’m into software development, Graphics design and Technical writing and Project Management</li>
+<li>👀 I’m into software development, IT Project Management and Cyber Security</li>
   <br>
-<li>🌱 I'm currently working for a private consulting firm</li>
+<li>🌱 I'm currently working for a private software consulting firm where I manage projects and also provide Fullstack web support</li>
   <br>
 <li>💞️🌍 I'm based in Lekki, Lagos State, Nigeria.</li>
   <br>
-<li>I also work as a freelancer and I'm very much open to other job opportunities</li>
+<li>I also work as a freelance consultant and I'm very much open to handling your projects 🤝</li>
   <br>
 <li>What do I do in my free time? Code!</li>
-  <br>
- <li>I recently worked as a fullstack developer/ project manager on a Qrcode generator platfrom that's powered by Django <a href="https://qrgen59.herokuapp.com">View live site here!</a></li>
  <br>
-<li>🤝 I'm open to collaborating on HTML, CSS, Javascript, Figma and Python(Django) projects!</li>
-  <br>
   <li>✉️ You can contact me via <a href="mailto:seyeezi18@gmail.com">Gmail</a></li>
 </ul>
 
@@ -22,8 +18,6 @@
   <h1>Social</h1>
   <p align="left">
     <a href="https://linkedin.com/in/oluwaseyi-ajibade-8652a11b6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-    <a href="https://twitter.com/seyeezi18/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-    <a href="https://codepen.io/Oluseyi18/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>
   </p>
   </div>
   
